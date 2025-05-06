@@ -10,6 +10,8 @@ public class Program_01 {
 		System.out.print("Enter a number:");
 		int a=sc.nextInt();
 		System.out.println("square of " + a + " is " +(a*a));
+
+		//Editing new
 	}
 
 }
